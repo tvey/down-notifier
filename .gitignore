@@ -16,4 +16,5 @@ env/
 *.sqlite
 
 stuff/
+notes.txt
 .python-version
